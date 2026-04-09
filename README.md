@@ -10,6 +10,7 @@
 | 🔧 `Settings` | 설정 변경 | 환경설정, 설정 파일 수정 (`:wrench:`) |
 | 🗃️ `Comment` | 주석 | 필요한 주석 추가/변경 (`:card_file_box:`) |
 | ➕ `Dependency/Plugin` | 의존성 추가 | 라이브러리, 플러그인 추가 (`:heavy_plus_sign:`) |
+| 📊 `Data` | 데이터 / 실험 / 성능 분석 | 데이터셋 추가, 전처리, 실험 결과, 성능 개선 (`:bar_chart:`) |
 | 📝 `Docs` | 문서 | 문서 수정 (`:memo:`) |
 | 🔀 `Merge` | 병합 | 브랜치 병합 (`:twisted_rightwards_arrows:`) |
 | 🚀 `Deploy` | 배포 | 배포 관련 작업 (`:rocket:`) |
